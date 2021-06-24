@@ -15,7 +15,7 @@ if __name__=='__main__':
         random.shuffle(list_main)
     #reconverting list_main though it was not necessory 
         for x in range(len(list_main)):
-            print(list_main[x], sep=">",end=" ")
+            print(list_main[x],end=" ")
             jumbled_word=(words[word].upper())
     
     print(' \nYou got Five turns')
@@ -30,3 +30,4 @@ if __name__=='__main__':
             pass
     if guess_user!=main_word:
         print(guess_user,' is the wrong guess try again')
+        print(main_word,' is the correct answer' )
