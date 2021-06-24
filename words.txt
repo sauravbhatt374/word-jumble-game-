@@ -1,7 +1,6 @@
 abandon
 ability
 able
-abortion
 about
 above
 abroad
@@ -66,7 +65,6 @@ affect
 afford
 afraid
 African
-African-American
 after
 afternoon
 again
@@ -2456,7 +2454,6 @@ smooth
 snap
 snow
 so
-so-called
 soccer
 social
 society
